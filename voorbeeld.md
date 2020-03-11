@@ -1,5 +1,3 @@
 # voorbeeldtekst
-## voorbeeldtekst
-### voorbeeldtekst
-dit is gewone tekst 
+Dit is gewone tekst 
 > Tip
